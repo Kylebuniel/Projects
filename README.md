@@ -15,4 +15,6 @@ Key features of this project include:
 - **Visualising Data**: Using 'matplotlib' to create an Expected return vs. Risk graph for simple data digestion.
 
 With this project, clients can make informed investment decisions backed by data-driven insights, ultimately achieving their financial objectives with confidence.
-[View Project](https://github.com/Kylebuniel/Projects)
+- [View Optimisation Project]([https://github.com/Kylebuniel/Projects](https://github.com/Kylebuniel/Projects/blob/main/Portfolio%20Optimisation%20.ipynb)
+- [View Data Collection]([https://github.com/Kylebuniel/Projects]([https://github.com/Kylebuniel/Projects/blob/main/Portfolio%20Optimisation%20.ipynb](https://github.com/Kylebuniel/Projects/blob/main/Data%20Collection.ipynb)
+)
